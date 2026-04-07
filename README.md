@@ -19,7 +19,7 @@ If you use parts of the code, you must provide proper credit linking back to the
 
 Build your own version — don’t just copy.
 
-— Moncy Yohannan
+— Divyam Gupta
 
 ---
 
@@ -35,7 +35,7 @@ https://gsap.com/docs/v3/Installation/
 
 ## ⚙️ Tech Stack
 
-React • TypeScript • GSAP • Three.js • WebGL • HTML • CSS • JavaScript
+React • • GSAP • Three.js • WebGL • HTML • CSS • JavaScript
 
 ---
 
@@ -51,11 +51,6 @@ However:
 
 Any usage, extraction, or redistribution of that avatar from my live website is strictly prohibited.
 
----
-
-![Protfolio-Preview](https://github.com/user-attachments/assets/3c4557e7-6392-4928-b8a9-7b2476ef4edd)
-
----
 
 ## 📄 License
 
