@@ -51,6 +51,8 @@ Any usage, extraction, or redistribution of that avatar from my live website is 
 
 ## 📄 License
 
+"C:\Users\divya\OneDrive\Pictures\Screenshots 1\Screenshot 2026-04-07 194424.png"
+
 This project is licensed under the Personal Portfolio License (PPL) v1.0.
 
 See the LICENSE file for full details
